@@ -19,7 +19,7 @@ redirect_from:
 
 I am Haochen Zhang (张皓琛), currently pursuing a Master of Infrastructure Asset Management (Research Pathway - 180 points) at The University of Auckland. I received my Bachelor of Engineering Management from Changsha University of Science and Technology.
 
-My master's thesis focuses on applying blockchain technology to the life-cycle carbon emission management of electric vehicle charging infrastructure, with particular interest in transparent carbon tracking, trusted data management, and the assetization of carbon emissions into tradable carbon credits.
+My master's thesis focuses on applying blockchain technology to the life-cycle carbon emission management of electric vehicle charging infrastructure, with particular interest in transparent carbon tracking, trusted data management, and the assetization of carbon emissions into tradable carbon credits. ([View Project Progress](https://github.com/Zhang-holden/Thesis_Trusted_WLC))
 
 During my undergraduate study, my thesis focused on modeling road maintenance decision-making as a bi-level optimization problem, using a hybrid approach combining a standard genetic algorithm and NSGA-II to optimize maintenance strategies. This work was accepted by the World Transport Convention 2024 (WTC 2024) for a poster presentation. 
 
@@ -27,7 +27,7 @@ Building upon my undergraduate research, I am currently exploring more advanced 
 
 As part of my coursework at The University of Auckland, I have been actively expanding my interdisciplinary knowledge. Through *ENVENG 752: Sustainability and Life Cycle Assessment*, I learned the fundamentals of LCA methodologies and gained practical experience using OpenLCA for environmental impact analysis. In this course, my team collaborated with a local New Zealand company, Rescued Kitchen, to conduct an LCA on their upcycled flour product ([Project Results](/projects/rescued-flour-lca/)).
 
-Furthermore, in *COMPSCI 752: Big Data Management*, I studied big data modeling and access (including XML, XPath, and XQuery), as well as reasoning about big data using Knowledge Graphs. For the course project, I specifically chose a topic related to blockchain technology, hoping that the knowledge acquired from this course will provide solid support for my master's thesis. These cross-disciplinary learning experiences continue to inspire me to apply data-driven approaches to sustainable infrastructure research.
+Furthermore, in *COMPSCI 752: Big Data Management*, I studied big data modeling and access (including XML, XPath, and XQuery), as well as reasoning about big data using Knowledge Graphs. For the course project, I specifically chose a topic related to blockchain technology, hoping that the knowledge acquired from this course will provide solid support for my master's thesis.
 
 My research interests include:
 
