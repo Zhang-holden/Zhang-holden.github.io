@@ -31,6 +31,18 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
       {% endif %}
+      {% if author.student_email %}
+        <li><a href="mailto:{{ author.student_email }}"><i class="fas fa-fw fa-envelope-open" aria-hidden="true"></i> Student Email</a></li>
+      {% endif %}
+      {% if author.whatsapp %}
+        <li><a href="tel:{{ author.whatsapp | remove: ' ' }}"><i class="fab fa-fw fa-whatsapp" aria-hidden="true"></i> WhatsApp</a></li>
+      {% endif %}
+      {% if author.wechat %}
+        <li><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat: {{ author.wechat }}</li>
+      {% endif %}
+      {% if author.xiaohongshu %}
+        <li><a href="{{ author.xiaohongshu }}"><i class="fas fa-fw fa-book" aria-hidden="true"></i> Xiaohongshu (RED)</a></li>
+      {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
@@ -125,6 +137,15 @@
       {% endif %}
       {% if author.email %}
         <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.student_email %}
+        <a href="mailto:{{ author.student_email }}"><i class="fas fa-fw fa-envelope-open" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.whatsapp %}
+        <a href="tel:{{ author.whatsapp | remove: ' ' }}"><i class="fab fa-fw fa-whatsapp" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.xiaohongshu %}
+        <a href="{{ author.xiaohongshu }}"><i class="fas fa-fw fa-book" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
