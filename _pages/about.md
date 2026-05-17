@@ -17,11 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <img src="/images/mt.jpg" alt="Mount Taranaki / Egmont National Park" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <div style="color: gray; font-size: 0.85em; margin-top: 8px;">拍摄于新西兰。芒格努伊国家公园。</div>
-</div>
-
 I am Haochen Zhang (张皓琛), currently pursuing a Master of Infrastructure Asset Management (Research Pathway - 180 points) at The University of Auckland. I received my Bachelor of Engineering Management from Changsha University of Science and Technology.
 
 My master's thesis focuses on applying blockchain technology to the life-cycle carbon emission management of electric vehicle charging infrastructure, with particular interest in transparent carbon tracking, trusted data management, and the assetization of carbon emissions into tradable carbon credits.
