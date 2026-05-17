@@ -33,10 +33,6 @@ My research interests include:
 
 In my spare time, I enjoy playing basketball and am also a certified National Level-2 basketball referee.
 
-Email: [holden4study@gmail.com](mailto:holden4study@gmail.com) | Student Email: [hzha633@aucklanduni.ac.nz](mailto:hzha633@aucklanduni.ac.nz)  
-Phone / WhatsApp: +64 0204798452 | WeChat: wulihaochen33  
-Xiaohongshu (RED): [My Xiaohongshu Profile](https://xhslink.com/m/AVD4zbhwKiX)
-
 # 🔥 News
 - *2026.05.14*: &nbsp;🎉🎉 The LaTeX thesis template I developed for The University of Auckland has received over 100 saves on Xiaohongshu!
 
