@@ -23,7 +23,7 @@ My master's thesis focuses on applying blockchain technology to the life-cycle c
 
 During my undergraduate study, my thesis focused on modeling road maintenance decision-making as a bi-level optimization problem, using a hybrid approach combining a standard genetic algorithm and NSGA-II to optimize maintenance strategies. This work was accepted by the World Transport Convention 2024 (WTC 2024) for a poster presentation. 
 
-Building upon my undergraduate research, I am currently exploring more advanced optimization algorithms integrated with Reinforcement Learning (RL) to solve the bi-level optimization model, aiming to significantly improve the solving speed and algorithmic reusability.
+Building upon my undergraduate research, I am currently exploring more advanced optimization algorithms integrated with Reinforcement Learning to solve the bi-level optimization model, aiming to significantly improve the solving speed and algorithmic reusability.
 
 My research interests include:
 
@@ -37,5 +37,9 @@ In my spare time, I enjoy playing basketball and am also a certified National Le
 - *2026.05.14*: &nbsp;🎉🎉 The LaTeX thesis template I developed for The University of Auckland has received over 100 saves on Xiaohongshu!
 
 # 📖 Educations
-- The University of Auckland, Master of Infrastructure Asset Management (Research Pathway)
-- Changsha University of Science and Technology, Bachelor of Engineering Management
+
+- **The University of Auckland**
+  <br> *Master of Infrastructure Asset Management (Research Pathway)*
+
+- **Changsha University of Science and Technology**
+  <br> *Bachelor of Engineering Management*
