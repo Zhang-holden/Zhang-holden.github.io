@@ -59,7 +59,7 @@ In my spare time, I enjoy playing basketball and am also a certified Level-2 bas
   <br> *Faculty of Engineering and Design*
   <br> Apr 2025 – Dec 2027 (Expected)
 
-- **Gansu Ningyuan Architectural Design & Research Institute** | Lanzhou, Gansu, China
+- **Gansu Ningyuan Architectural Design Institute** | Lanzhou, Gansu, China
   <br> *Intern*
   <br> Aug 2024 – Mar 2025
 
