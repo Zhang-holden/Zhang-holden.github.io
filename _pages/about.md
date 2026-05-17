@@ -25,16 +25,18 @@ During my undergraduate study, my thesis focused on modeling road maintenance de
 
 Building upon my undergraduate research, I am currently exploring more advanced optimization algorithms integrated with Reinforcement Learning to solve the bi-level optimization model, aiming to significantly improve the solving speed and algorithmic reusability.
 
+As part of my coursework at The University of Auckland, I have further expanded my interdisciplinary skill set. Through *ENVENG 752: Sustainability and Life Cycle Assessment*, I systematically mastered LCA methodologies and became proficient in using OpenLCA for environmental impact analysis. Additionally, in *COMPSCI 752: Big Data Management*, I gained in-depth knowledge of big data modeling and access (including XML, XPath, and XQuery), as well as reasoning about big data using Knowledge Graphs. These cross-disciplinary learning experiences have equipped me to better apply data-driven approaches to sustainable infrastructure research.
+
 My research interests include:
 
 - Application of blockchain technology in construction and infrastructure management
 - Multi-objective optimization for infrastructure maintenance decision-making
 - Integrating life cycle assessment into infrastructure asset management
 
-In my spare time, I enjoy playing basketball and am also a certified National Level-2 basketball referee.
+In my spare time, I enjoy playing basketball and am also a certified Level-2 basketball referee.
 
 # 💻 Skills
-- **Programming & Data:** Python, XML, XPath, XQuery, Knowledge Graphs.
+- **Programming & Data:** Python,Solidity, XML, XPath, XQuery, Knowledge Graphs.
 - **Engineering & Design:** Revit, AutoCAD.
 - **Life Cycle Assessment:** LCA workflows, OpenLCA.
 
