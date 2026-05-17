@@ -4,28 +4,32 @@ title: "Life Cycle Assessment of Rescued Kitchen's Upcycled Flour"
 author_profile: false
 ---
 
-## Project Overview
+<div class="notice--info">
+  <h4 class="no_toc"><i class="fas fa-lightbulb"></i> Project Overview</h4>
+  <p>In the <em>ENVENG 752: Sustainability and Life Cycle Assessment</em> course, my team collaborated with <strong>Rescued Kitchen</strong>, a local New Zealand company, to conduct a comprehensive Life Cycle Assessment (LCA) on their upcycled flour product.</p>
+  <p>This project aimed to quantify the environmental impacts of the upcycled flour production process and compare it with traditional flour production.</p>
+</div>
 
-In the *ENVENG 752: Sustainability and Life Cycle Assessment* course, my team collaborated with **Rescued Kitchen**, a local New Zealand company, to conduct a comprehensive Life Cycle Assessment (LCA) on their upcycled flour product. 
+## <i class="fas fa-folder-open"></i> Documentation and Data
 
-This project aimed to quantify the environmental impacts of the upcycled flour production process and compare it with traditional flour production.
+We have made our final report and life cycle inventory (LCI) data available for review. Click the buttons below to download or view the materials:
 
-## Documentation and Data
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px; margin-bottom: 40px;">
+  <a href="/files/projects/rescued-flour/Final_Report.pdf" class="btn btn--danger" target="_blank"><i class="fas fa-file-pdf"></i> Final Project Report</a>
+  <a href="/files/projects/rescued-flour/PROCESS MODEL.xlsx" class="btn btn--success"><i class="fas fa-file-excel"></i> Process Model Data</a>
+  <a href="/files/projects/rescued-flour/APPENDIX A - LCI DATA RESCUED BREAD FLOUR (raw data).xlsx" class="btn btn--success"><i class="fas fa-file-excel"></i> Appendix A: LCI Raw Data</a>
+  <a href="/files/projects/rescued-flour/APPENDIX C - PEDIGREE MATRIX.xlsx" class="btn btn--success"><i class="fas fa-file-excel"></i> Appendix C: Pedigree Matrix</a>
+</div>
 
-We have made our final report and life cycle inventory (LCI) data available for review:
-
-* 📄 **[Final Project Report](/files/projects/rescued-flour/Final_Report.pdf)**
-* 📊 **[Process Model Data](/files/projects/rescued-flour/PROCESS MODEL.xlsx)**
-* 📊 **[Appendix A: LCI Raw Data](/files/projects/rescued-flour/APPENDIX A - LCI DATA RESCUED BREAD FLOUR (raw data).xlsx)**
-* 📊 **[Appendix C: Pedigree Matrix](/files/projects/rescued-flour/APPENDIX C - PEDIGREE MATRIX.xlsx)**
-
-## Team
+## <i class="fas fa-users"></i> Team
 
 *(Below is our team photo from the presentation)*
 
-<div style="text-align: center; margin-bottom: 20px; margin-top: 20px;">
-  <img src="/images/team_photo_1.jpg" alt="Team Photo" style="max-width: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<div style="text-align: center; margin-bottom: 30px; margin-top: 20px;">
+  <img src="/images/team_photo_1.jpg" alt="Team Photo" style="max-width: 500px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
 </div>
 
 ---
-[← Back to Homepage](/)
+<div style="margin-top: 30px;">
+  <a href="/" class="btn btn--info btn--large"><i class="fas fa-arrow-left"></i> Back to Homepage</a>
+</div>
