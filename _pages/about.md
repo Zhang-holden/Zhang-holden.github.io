@@ -53,6 +53,20 @@ In my spare time, I enjoy playing basketball and am also a certified Level-2 bas
 - **Changsha University of Science and Technology**
   <br> *Bachelor of Engineering Management*
 
+# 💼 Experience
+
+- **The University of Auckland** | Auckland, New Zealand
+  <br> *Faculty of Engineering and Design*
+  <br> Apr 2025 – Dec 2027 (Expected)
+
+- **Gansu Ningyuan Architectural Design & Research Institute** | Lanzhou, Gansu, China
+  <br> *Intern*
+  <br> Aug 2024 – Mar 2025
+
+- **Changsha University of Science and Technology** | Changsha, Hunan, China
+  <br> *School of Traffic and Transportation Engineering*
+  <br> Sep 2020 – Jul 2024
+
 <div style="text-align: center; margin-top: 40px; margin-bottom: 20px;">
   <img src="/images/mt.jpg" alt="Mount Maunganui National Park" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <div style="color: gray; font-size: 0.85em; margin-top: 8px;"><i>Taken at Mount Maunganui National Park, New Zealand.</i></div>
