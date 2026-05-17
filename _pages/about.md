@@ -33,6 +33,11 @@ My research interests include:
 
 In my spare time, I enjoy playing basketball and am also a certified National Level-2 basketball referee.
 
+# 💻 Skills
+- **Programming & Data:** Python, XML, XPath, XQuery, Knowledge Graphs.
+- **Engineering & Design:** Revit, AutoCAD.
+- **Life Cycle Assessment:** LCA workflows, OpenLCA.
+
 # 🔥 News
 - *2026.05.14*: &nbsp;🎉🎉 The LaTeX thesis template I developed for The University of Auckland has received over 100 saves on Xiaohongshu!
 
