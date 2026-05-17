@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /projects/rescued-flour-lca/
 title: "Life Cycle Assessment of Rescued Kitchen's Upcycled Flour"
 author_profile: false
