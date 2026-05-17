@@ -44,7 +44,7 @@ In my spare time, I enjoy playing basketball and am also a certified National Le
 # 📖 Educations
 
 - **The University of Auckland**
-  <br> *Master of Infrastructure Asset Management (Research Pathway)*
+  <br> *Master of Infrastructure Asset Management*
 
 - **Changsha University of Science and Technology**
   <br> *Bachelor of Engineering Management*
