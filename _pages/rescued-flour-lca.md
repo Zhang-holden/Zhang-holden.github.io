@@ -21,12 +21,20 @@ We have made our final report and life cycle inventory (LCI) data available for 
   <a href="/files/projects/rescued-flour/APPENDIX C - PEDIGREE MATRIX.xlsx" class="btn btn--success"><i class="fas fa-file-excel"></i> Appendix C: Pedigree Matrix</a>
 </div>
 
+## <i class="fas fa-newspaper"></i> Media Coverage
+
+Our research and the innovative concept of upcycling wasted bread into usable flour have attracted attention from local media and our university. You can read more about the impact of our project through the following articles:
+
+* 📰 **[Flour power: A new rise for wasted bread](https://www.auckland.ac.nz/en/news/2025/11/17/flour-power-a-new-rise-for-wasted-bread.html)** – *The University of Auckland News*
+* 🎙️ **[Is it possible to turn bread back into usable flour?](https://www.rnz.co.nz/news/national/579240/is-it-possible-to-turn-bread-back-into-usable-flour)** – *RNZ (Radio New Zealand)*
+
 ## <i class="fas fa-users"></i> Team
 
-*(Below is our team photo from the presentation)*
+*(Below are our team photos)*
 
-<div style="text-align: center; margin-bottom: 30px; margin-top: 20px;">
-  <img src="/images/team_photo_1.jpg" alt="Team Photo" style="max-width: 500px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 30px; margin-top: 20px;">
+  <img src="/images/team_photo_1.jpg" alt="Team Photo 1" style="max-width: 400px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="/images/team_photo_2.jpg" alt="Team Photo 2" style="max-width: 400px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
 </div>
 
 ---
