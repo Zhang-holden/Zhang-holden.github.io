@@ -7,6 +7,8 @@
 
 # Site Settings
 title                    : "Haochen Zhang"
+url                      : "https://zhang-holden.github.io"
+baseurl                  : ""
 description              : "Personal homepage of Haochen Zhang."
 repository               : "Zhang-holden/Zhang-holden.github.io"
 google_scholar_stats_use_cdn : true
