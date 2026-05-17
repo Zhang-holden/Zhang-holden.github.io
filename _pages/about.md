@@ -52,3 +52,8 @@ In my spare time, I enjoy playing basketball and am also a certified Level-2 bas
 
 - **Changsha University of Science and Technology**
   <br> *Bachelor of Engineering Management*
+
+<div style="text-align: center; margin-top: 40px; margin-bottom: 20px;">
+  <img src="/images/mt.jpg" alt="Mount Maunganui National Park" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <div style="color: gray; font-size: 0.85em; margin-top: 8px;"><i>Taken at Mount Maunganui National Park, New Zealand.</i></div>
+</div>
