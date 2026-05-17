@@ -10,17 +10,6 @@ In the *ENVENG 752: Sustainability and Life Cycle Assessment* course, my team co
 
 This project aimed to quantify the environmental impacts of the upcycled flour production process and compare it with traditional flour production.
 
-## Project Poster & Team
-
-*(Below is our project poster and team photos from the presentation)*
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 20px;">
-  <img src="/images/poster_presentation.jpg" alt="Poster Presentation" style="max-width: 48%; border-radius: 8px;">
-  <img src="/images/team_photo_1.jpg" alt="Team Photo" style="max-width: 48%; border-radius: 8px;">
-</div>
-
-You can view the high-resolution poster here: [Download Poster PDF](/files/projects/rescued-flour/Poster.pdf)
-
 ## Documentation and Data
 
 We have made our final report and life cycle inventory (LCI) data available for review:
@@ -29,6 +18,14 @@ We have made our final report and life cycle inventory (LCI) data available for 
 * 📊 **[Process Model Data](/files/projects/rescued-flour/PROCESS MODEL.xlsx)**
 * 📊 **[Appendix A: LCI Raw Data](/files/projects/rescued-flour/APPENDIX A - LCI DATA RESCUED BREAD FLOUR (raw data).xlsx)**
 * 📊 **[Appendix C: Pedigree Matrix](/files/projects/rescued-flour/APPENDIX C - PEDIGREE MATRIX.xlsx)**
+
+## Team
+
+*(Below is our team photo from the presentation)*
+
+<div style="text-align: center; margin-bottom: 20px; margin-top: 20px;">
+  <img src="/images/team_photo_1.jpg" alt="Team Photo" style="max-width: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
 ---
 [← Back to Homepage](/)
