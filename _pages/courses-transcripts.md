@@ -16,17 +16,17 @@ author_profile: true
 Below are the courses I am undertaking for my Master's degree, organized by semester:
 
 ### 2025 Semester Two (25S2)
-* 📚 **ENGGEN 726**: Climate Adaptation of Infrastructure
-* 📚 **ENGGEN 769**: Research Methods for Engineers
-* 📚 **ENVENG 752**: Sustainability and Life Cycle Assessment
+* 📚 **ENGGEN 726**: Climate Adaptation of Infrastructure *(Grade: B-)*
+* 📚 **ENGGEN 769**: Research Methods for Engineers *(Grade: B)*
+* 📚 **ENVENG 752**: Sustainability and Life Cycle Assessment *(Grade: B+)*
 
 ### 2026 Semester One (26S1)
-* 📚 **CIVIL 765**: Infrastructure Asset Management
-* 📚 **COMPSCI 752**: Big Data Management
-* 📚 **CIVIL 794A**: Thesis (Part A)
+* 📚 **CIVIL 765**: Infrastructure Asset Management *(Currently Enrolled)*
+* 📚 **COMPSCI 752**: Big Data Management *(Currently Enrolled)*
+* 📚 **CIVIL 794A**: Thesis (Part A) *(Currently Enrolled)*
 
 ### 2026 Semester Two (26S2)
-* 📚 **CIVIL 794B**: Thesis (Part B)
+* 📚 **CIVIL 794B**: Thesis (Part B) *(Currently Enrolled)*
 
 ## <i class="fas fa-file-alt"></i> Undergraduate Transcripts
 *(Changsha University of Science and Technology)*
