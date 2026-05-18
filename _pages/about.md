@@ -19,7 +19,7 @@ redirect_from:
 
 I am Haochen Zhang (张皓琛), currently pursuing a Master of Infrastructure Asset Management (Research Pathway - 180 points) at The University of Auckland. I received my Bachelor of Engineering Management from Changsha University of Science and Technology.
 
-My master's thesis focuses on applying blockchain technology to the life-cycle carbon emission management of electric vehicle charging infrastructure, with particular interest in transparent carbon tracking, trusted data management, and the assetization of carbon emissions into tradable carbon credits. ([View Project Progress](https://github.com/Zhang-holden/Thesis_Trusted_WLC))
+Under the supervision of Dr. Hongyu Jin, my master's thesis focuses on applying blockchain technology to the life-cycle carbon emission management of electric vehicle charging infrastructure, with particular interest in transparent carbon tracking, trusted data management, and the assetization of carbon emissions into tradable carbon credits. ([View Project Progress](https://github.com/Zhang-holden/Thesis_Trusted_WLC))
 
 During my undergraduate study, under the supervision of Dr. Zhongxiang Chang, my thesis focused on modeling road maintenance decision-making as a bi-level optimization problem, using a hybrid approach combining a standard genetic algorithm and NSGA-II to optimize maintenance strategies. This work was accepted by the World Transport Convention 2024 (WTC 2024) for a poster presentation. 
 
