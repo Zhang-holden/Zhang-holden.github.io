@@ -31,10 +31,10 @@ Below are the courses I am undertaking for my Master's degree, organized by seme
 ## <i class="fas fa-file-alt"></i> Undergraduate Transcripts
 *(Changsha University of Science and Technology)*
 
-You can view my official undergraduate transcripts below:
+You can view or download my official undergraduate transcripts using the button below:
 
-<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/images/undergraduate_transcript.jpg" alt="Undergraduate Transcript" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<div style="margin-top: 20px; margin-bottom: 40px;">
+  <a href="/images/undergraduate_transcript.jpg" class="btn btn--danger" target="_blank" download="Haochen_Zhang_Undergraduate_Transcript.jpg"><i class="fas fa-file-download"></i> Download Official Transcript (JPG)</a>
 </div>
 
 ---
