@@ -71,3 +71,7 @@ I maintain a strong passion for exploring the unknown. I am always eager to embr
   <img src="/images/mt.jpg" alt="Mount Maunganui National Park" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <div style="color: gray; font-size: 0.85em; margin-top: 8px;"><i>Taken at Mount Maunganui National Park, New Zealand.</i></div>
 </div>
+
+<div style="text-align: center; margin-top: 40px;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=PZf1qN5a6xJm0l0rYxYv6Qo6Zl7wYq7X8V0Wz1Qz3z8"></script>
+</div>
