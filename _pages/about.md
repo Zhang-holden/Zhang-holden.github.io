@@ -38,7 +38,7 @@ My research interests include:
 I maintain a strong passion for exploring the unknown. I am always eager to embrace new ideas, learn cutting-edge technologies, and venture into uncharted fields. In my spare time, I enjoy playing basketball and am also a certified Level-2 basketball referee.
 
 # 💻 Skills
-- **Programming & Data:** Python,Solidity, XML, XPath, XQuery, Knowledge Graphs.
+- **Programming & Data:** Python, Solidity, XML, XPath, XQuery, Knowledge Graphs, LaTeX.
 - **Engineering & Design:** Revit, AutoCAD.
 - **Life Cycle Assessment:** LCA workflows, OpenLCA.
 
