@@ -10,14 +10,23 @@ author_profile: true
   <p>Here you can find details about the courses I am currently undertaking at The University of Auckland, as well as my official academic transcripts from my undergraduate studies at Changsha University of Science and Technology.</p>
 </div>
 
-## <i class="fas fa-book-open"></i> Current Coursework
+## <i class="fas fa-book-open"></i> Coursework
 *(The University of Auckland)*
 
-Below are the key courses I am currently enrolled in for my Master's degree:
+Below are the courses I am undertaking for my Master's degree, organized by semester:
 
+### 2025 Semester Two (25S2)
+* 📚 **ENGGEN 726**: Climate Adaptation of Infrastructure
+* 📚 **ENGGEN 769**: Research Methods for Engineers
 * 📚 **ENVENG 752**: Sustainability and Life Cycle Assessment
+
+### 2026 Semester One (26S1)
+* 📚 **CIVIL 765**: Infrastructure Asset Management
 * 📚 **COMPSCI 752**: Big Data Management
-* *(Feel free to list more courses here...)*
+* 📚 **CIVIL 794A**: Thesis (Part A)
+
+### 2026 Semester Two (26S2)
+* 📚 **CIVIL 794B**: Thesis (Part B)
 
 ## <i class="fas fa-file-alt"></i> Undergraduate Transcripts
 *(Changsha University of Science and Technology)*
