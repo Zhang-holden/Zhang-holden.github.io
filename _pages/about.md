@@ -20,13 +20,6 @@ redirect_from:
   }
 </style>
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 Hi, I am Haochen Zhang, a Master's candidate in Infrastructure Asset Management at The University of Auckland. I hold a B.Eng. in Engineering Management from Changsha University of Science and Technology. My academic focus lies in applying modern technologies—such as optimisation algorithms and blockchain—to solve practical challenges in infrastructure management and sustainability.
