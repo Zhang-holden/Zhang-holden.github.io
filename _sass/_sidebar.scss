@@ -306,3 +306,11 @@
 .sidebar .author__urls li {
   white-space: normal;
 }
+
+/* Chinese name below the English name */
+.author__name-cn {
+  margin: 0 0 10px;
+  font-family: $sans-serif;
+  font-size: $type-size-5;
+  color: $gray;
+}

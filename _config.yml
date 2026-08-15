@@ -24,6 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Haochen Zhang"
+  name_cn          : "张皓琛"
   avatar           : "/images/avatar.jpg"
   bio              : "Master of Infrastructure Asset Management, The University of Auckland"
   location         :
@@ -31,10 +32,7 @@ author:
   pubmed           : 
   googlescholar    :
   email            : "holden4study@gmail.com"
-  student_email    : "hzha633@aucklanduni.ac.nz"
-  whatsapp         : "+64 0204798452"
   wechat           : "wulihaochen33"
-  xiaohongshu      : "https://xhslink.com/m/AVD4zbhwKiX"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +41,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Zhang-holden"
   google_plus      :
   keybase          :
   instagram        :
