@@ -26,6 +26,7 @@
 - Modify: `_sass/_variables.scss:9,17`
 - Modify: `_includes/head.html:1`
 - Modify: `_sass/_base.scss:15-16`
+- Modify: `_sass/_reset.scss:11`
 
 **Interfaces:**
 - Consumes: 无(第一个任务)
@@ -81,7 +82,7 @@ $sans-serif                 : "Inter", -apple-system, "Segoe UI", Roboto, "Helve
 {% include seo.html %}
 ```
 
-- [ ] **Step 3: _base.scss 正文行高**
+- [ ] **Step 3: _base.scss 行高 + _reset.scss 根字号**
 
 `_sass/_base.scss` 第 15-16 行:
 
@@ -91,6 +92,20 @@ $sans-serif                 : "Inter", -apple-system, "Segoe UI", Roboto, "Helve
 ```
 
 将 `line-height: 1.5;` 改为 `line-height: 1.7;`。其余不动。
+
+同一步骤中,`_sass/_reset.scss` 第 11 行 html 根字号由硬编码 `15px` 改为由 `$doc-font-size` 驱动:
+
+```scss
+  font-size: 15px;
+```
+
+改为:
+
+```scss
+  font-size: #{$doc-font-size}px;
+```
+
+(Sass 插值渲染为 16px;`$doc-font-size` 为无单位数字,可直接插值。此改动使 `$doc-font-size = 16` 真正生效——此前它仅喂给未使用的 em() mixin,渲染字号停留在硬编码 15px。)
 
 - [ ] **Step 4: 静态验证**
 
@@ -302,7 +317,7 @@ Run:
 ```powershell
 git diff HEAD~3 --stat
 ```
-Expected: 变更文件为 `_sass/_variables.scss`、`_includes/head.html`、`_sass/_base.scss`、`_sass/_sidebar.scss`、`_includes/sidebar.html`、`_sass/_print.scss`、`assets/js/nav-highlight.js` —— 与设计规格文件变更清单 7 个文件逐项一致;`main.min.js`、`_data/navigation.yml`、`_layouts/` 不在列表。
+Expected: 变更文件为 `_sass/_variables.scss`、`_includes/head.html`、`_sass/_base.scss`、`_sass/_reset.scss`、`_sass/_sidebar.scss`、`_includes/sidebar.html`、`_sass/_print.scss`、`assets/js/nav-highlight.js` —— 与设计规格文件变更清单 8 个文件逐项一致;`main.min.js`、`_data/navigation.yml`、`_layouts/` 不在列表。
 
 - [ ] **Step 3: 提交并触发 GitHub Pages 部署**
 

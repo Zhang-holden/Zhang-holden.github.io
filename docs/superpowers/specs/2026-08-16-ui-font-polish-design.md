@@ -28,7 +28,7 @@
 | 变量 | 当前值 | 问题 |
 |---|---|---|
 | `$sans-serif` | `"Trebuchet MS", Helvetica, sans-serif` | Trebuchet MS 老旧,跨平台观感差 |
-| `$doc-font-size` | `14` | 偏小,长文阅读费劲 |
+| `$doc-font-size` | `14`(仅变量,未生效) | 实际渲染基础字号为 `_sass/_reset.scss` 硬编码的 `15px`;变量仅喂给未使用的 em() mixin |
 | `$primary-color` | `#7a8288` | 灰,与背景对比弱 |
 | `$link-color` | `#224b8d` | 保留(与炭灰协调) |
 
@@ -52,6 +52,7 @@
 
   400 常规正文 + 600/700 标题与加粗;`display=swap` 无阻塞渲染。中文**不加载** Web 字体(体积大),走系统回退。
 - **`_sass/_base.scss`**:正文 `line-height: 1.5` → `1.7`。标题层级与行高不动。
+- **`_sass/_reset.scss`**:html 根字号由硬编码 `font-size: 15px` 改为 `font-size: #{$doc-font-size}px`(`$doc-font-size` 插值渲染 16px,变量首次真正生效,替换此前硬编码 15px)。
 
 ### 2. 配色(炭灰微调)
 
@@ -86,6 +87,7 @@
 | `_sass/_variables.scss` | `$sans-serif` 字体栈、`$doc-font-size` 14→16、`$primary-color` → `#5A636A` |
 | `_includes/head.html` | 添加 Google Fonts Inter 加载(3 行) |
 | `_sass/_base.scss` | 正文 `line-height` 1.5→1.7 |
+| `_sass/_reset.scss` | html 根字号改由 `$doc-font-size` 驱动(15px → 16px) |
 | `_sass/_sidebar.scss` | 导航 hover/active 过渡与间距 |
 | `_includes/sidebar.html` | 空 `class=""` 修复 |
 | `_sass/_print.scss` | 删除 `.masthead` 死代码 |

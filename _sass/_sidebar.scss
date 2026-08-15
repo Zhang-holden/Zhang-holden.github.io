@@ -295,5 +295,9 @@
       -webkit-transition: background-color 0.2s ease-in-out;
       transition: background-color 0.2s ease-in-out;
     }
+
+    a.active:hover {
+      color: #fff;
+    }
   }
 }
