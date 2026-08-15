@@ -9,7 +9,7 @@ author_profile: true
 ## <i class="fas fa-book-open"></i> Coursework
 *(The University of Auckland)*
 
-*Note: My Master of Infrastructure Asset Management follows the research pathway — 180 points in total, with the 90-point thesis (CIVIL 794) accounting for 50%.*
+My Master of Infrastructure Asset Management is a research pathway programme — 180 points in total, with the 90-point thesis (CIVIL 794) accounting for 50%.
 
 ### 2025 Semester Two (25S2)
 * 📚 **ENGGEN 726 (15 Points)**: Climate Adaptation of Infrastructure *(Grade: B-)*
