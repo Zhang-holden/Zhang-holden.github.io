@@ -29,11 +29,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Haochen Zhang, a Master's candidate in Infrastructure Asset Management at The University of Auckland. I hold a B.Eng. in Engineering Management from Changsha University of Science and Technology. My academic focus lies in applying modern technologies—such as optimization algorithms and blockchain—to solve practical challenges in infrastructure management and sustainability.
+Hi, I am Haochen Zhang, a Master's candidate in Infrastructure Asset Management at The University of Auckland. I hold a B.Eng. in Engineering Management from Changsha University of Science and Technology. My academic focus lies in applying modern technologies—such as optimisation algorithms and blockchain—to solve practical challenges in infrastructure management and sustainability.
 
 Currently, under the supervision of Dr. Hongyu Jin, my master's research focuses on developing a whole life carbon assetisation framework for EV charging infrastructure using blockchain technology and smart contracts. The goal of my work is to address the limitations of existing carbon crediting methodologies by ensuring transparent carbon tracking, trusted data management, and effectively converting carbon reductions into tradable carbon credits.
 
-Prior to this, my undergraduate thesis, advised by Dr. Zhongxiang Chang, explored bi-level optimization modeling for road maintenance decision-making. I developed a customized hybrid GA–NSGA-II algorithm to optimize maintenance strategies. The abstract of this research was accepted by the 2024 World Transport Convention WTC, where I presented it as a poster. Building upon this foundation, I am now exploring the integration of advanced optimization algorithms with RL to further enhance computational efficiency and algorithmic generalization in complex models.
+Prior to this, my undergraduate thesis, advised by Dr. Zhongxiang Chang, explored bi-level optimisation modelling for road maintenance decision-making. I developed a customised hybrid GA–NSGA-II algorithm to optimise maintenance strategies. The abstract of this research was accepted by the 2024 World Transport Convention WTC, where I presented it as a poster. Building upon this foundation, I am now exploring the integration of advanced optimisation algorithms with RL to further enhance computational efficiency and algorithmic generalisation in complex models.
 
 As part of the course *ENVENG 752: Sustainability and Life Cycle Assessment*, under the supervision of Dr. Febelyn Reguyal, I participated in a collaborative project with Rescued Kitchen, a New Zealand eco-enterprise. We conducted a comprehensive LCA on their upcycled flour product using OpenLCA to provide data-driven insights for their sustainability initiatives. ([View Project Results](/projects/rescued-flour-lca/))
 
@@ -43,7 +43,7 @@ Outside of my studies, I maintain an active lifestyle. I am an avid basketball p
 
 - Blockchain & Smart Contracts in Infrastructure
 - Life Cycle Assessment (LCA)
-- Multi-Objective Optimization Algorithms
+- Multi-Objective Optimisation Algorithms
 - Infrastructure Asset Management
 - Construction Management
 
