@@ -5,6 +5,18 @@ title: "Life Cycle Assessment of Rescued Kitchen's Upcycled Flour"
 author_profile: false
 ---
 
+<style>
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: url('/images/team_photo_1.jpg') center / cover no-repeat;
+    opacity: 0.2;
+    z-index: -1;
+    pointer-events: none;
+  }
+</style>
+
 <div class="notice--info">
   <h4 class="no_toc"><i class="fas fa-lightbulb"></i> Project Overview</h4>
   <p>Food waste is one of the most pressing environmental challenges of our time — edible surplus bread is frequently discarded despite retaining significant nutritional and economic value. <strong>Rescued Kitchen</strong>, a New Zealand eco-enterprise, tackles this problem by upcycling surplus bread into high-quality flour.</p>
@@ -29,12 +41,6 @@ The project has been featured in local media and university news:
 
 * 📰 **[Flour power: A new rise for wasted bread](https://www.auckland.ac.nz/en/news/2025/11/17/flour-power-a-new-rise-for-wasted-bread.html)** – *The University of Auckland News*
 * 🎙️ **[Is it possible to turn bread back into usable flour?](https://www.rnz.co.nz/news/national/579240/is-it-possible-to-turn-bread-back-into-usable-flour)** – *RNZ (Radio New Zealand)*
-
-## <i class="fas fa-users"></i> Team
-
-<div style="display: flex; justify-content: center; margin-top: 20px; margin-bottom: 30px;">
-  <img src="/images/team_photo_1.jpg" alt="Team Photo" style="max-width: 420px; width: 100%; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);">
-</div>
 
 ---
 <div style="margin-top: 30px;">
