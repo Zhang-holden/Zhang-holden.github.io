@@ -24,7 +24,7 @@
     var activeClass = "active";
 
     var highlight = function () {
-      var pos = window.pageYOffset + 120; // offset matches smooth-scroll (-20) + header slack
+      var pos = window.pageYOffset + 90; // offset slack; no fixed header anymore
       var current = sections[0];
       for (var i = 0; i < sections.length; i++) {
         var top = $(sections[i].el).offset().top;
