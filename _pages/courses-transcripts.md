@@ -19,7 +19,7 @@ author_profile: true
 * 📚 **COMPSCI 752 (15)**: Big Data Management *(Grade: B)*
 
 ### 2026 Semester Two (26S2)
-* 📚 **CIVIL 794 (90)**: CCS *(Currently Enrolled)*
+* 📚 **CIVIL 794 (90)**: Thesis *(Currently Enrolled)*
 * 📚 **CIVIL 763 (15)**: Smart Infrastructure Analytics *(Currently Enrolled)*
 
 <span class='anchor' id='transcripts'></span>
