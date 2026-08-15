@@ -10,6 +10,7 @@ author_profile: true
   <p>Here you can find details about the courses I am currently undertaking at The University of Auckland, as well as my official academic transcripts from my undergraduate studies at Changsha University of Science and Technology.</p>
 </div>
 
+<span class='anchor' id='courses'></span>
 ## <i class="fas fa-book-open"></i> Coursework
 *(The University of Auckland)*
 
@@ -28,6 +29,7 @@ Below are the courses I am undertaking for my Master's degree, organized by seme
 ### 2026 Semester Two (26S2)
 * 📚 **CIVIL 794B**: Thesis (Part B) *(Currently Enrolled)*
 
+<span class='anchor' id='transcripts'></span>
 ## <i class="fas fa-file-alt"></i> Undergraduate Transcripts
 *(Changsha University of Science and Technology)*
 

@@ -3,11 +3,8 @@ main:
   - title: "About"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Courses"
+    url: "/courses-transcripts/#courses"
 
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Courses & Transcripts"
-    url: "/courses-transcripts/"
+  - title: "Transcripts"
+    url: "/courses-transcripts/#transcripts"
