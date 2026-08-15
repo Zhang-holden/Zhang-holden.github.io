@@ -5,6 +5,18 @@ title: "Courses & Transcripts"
 author_profile: true
 ---
 
+<style>
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: url('/images/c1.jpg') center / cover no-repeat;
+    opacity: 0.2;
+    z-index: -1;
+    pointer-events: none;
+  }
+</style>
+
 <span class='anchor' id='courses'></span>
 ## <i class="fas fa-book-open"></i> Coursework
 *(The University of Auckland)*

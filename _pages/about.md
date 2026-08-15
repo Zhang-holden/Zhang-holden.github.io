@@ -8,6 +8,18 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: url('/images/w1.jpg') center / cover no-repeat;
+    opacity: 0.2;
+    z-index: -1;
+    pointer-events: none;
+  }
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
