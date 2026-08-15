@@ -4,7 +4,4 @@ main:
     url: "/#about-me"
 
   - title: "Courses"
-    url: "/courses-transcripts/#courses"
-
-  - title: "Transcripts"
-    url: "/courses-transcripts/#transcripts"
+    url: "/courses-transcripts/"
