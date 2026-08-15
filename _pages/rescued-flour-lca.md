@@ -46,3 +46,7 @@ The project has been featured in local media and university news:
 <div style="margin-top: 30px;">
   <a href="/" class="btn btn--info btn--large"><i class="fas fa-arrow-left"></i> Back to Homepage</a>
 </div>
+
+<div style="text-align: center; margin-top: 40px; margin-bottom: 20px;">
+  <img src="/images/team_photo_2.jpg" alt="Team Photo" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
