@@ -27,13 +27,18 @@ As part of the course *ENVENG 752: Sustainability and Life Cycle Assessment*, un
 
 Outside of my studies, I maintain an active lifestyle. I am an avid basketball player and officiate as a certified Level-2 basketball referee.
 
+# 🎯 Research Interests
+
+- Blockchain & Smart Contracts in Infrastructure
+- Life Cycle Assessment (LCA)
+- Multi-Objective Optimization Algorithms
+- Infrastructure Asset Management
+- Construction Management
+
 # 💻 Skills
 - **Programming & Data:** Python, Solidity, XML, XPath, XQuery, Knowledge Graphs, LaTeX.
 - **Engineering & Design:** Revit, AutoCAD.
 - **Life Cycle Assessment:** LCA workflows, OpenLCA.
-
-# 🔥 News
-- *2026.05.14*: &nbsp;🎉🎉 The LaTeX thesis template I developed for The University of Auckland has received over 100 saves on Xiaohongshu!
 
 # 📖 Educations
 
