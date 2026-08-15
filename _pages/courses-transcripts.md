@@ -36,3 +36,8 @@ My Master of Infrastructure Asset Management is a research pathway programme —
 <div style="margin-top: 30px;">
   <a href="/" class="btn btn--info btn--large"><i class="fas fa-arrow-left"></i> Back to Homepage</a>
 </div>
+
+<div style="text-align: center; margin-top: 40px; margin-bottom: 20px;">
+  <img src="/images/g1.jpg" alt="Golden Gate Bridge" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <div style="color: gray; font-size: 0.85em; margin-top: 8px;"><i>Taken at the Golden Gate Bridge, San Francisco.</i></div>
+</div>
