@@ -7,13 +7,14 @@ author_profile: false
 
 <div class="notice--info">
   <h4 class="no_toc"><i class="fas fa-lightbulb"></i> Project Overview</h4>
-  <p>In the <em>ENVENG 752: Sustainability and Life Cycle Assessment</em> course, my team collaborated with <strong>Rescued Kitchen</strong>, a local New Zealand company, to conduct a comprehensive Life Cycle Assessment (LCA) on their upcycled flour product.</p>
-  <p>This project aimed to quantify the environmental impacts of the upcycled flour production process and compare it with traditional flour production.</p>
+  <p>Food waste is one of the most pressing environmental challenges of our time — edible surplus bread is frequently discarded despite retaining significant nutritional and economic value. <strong>Rescued Kitchen</strong>, a New Zealand eco-enterprise, tackles this problem by upcycling surplus bread into high-quality flour.</p>
+  <p>As part of the <em>ENVENG 752: Sustainability and Life Cycle Assessment</em> course at The University of Auckland, our team partnered with Rescued Kitchen to conduct a comprehensive Life Cycle Assessment (LCA) of their upcycled flour product. Using <strong>OpenLCA</strong>, we modelled the full production chain — from bread collection and processing to the finished flour — to quantify its environmental footprint and benchmark it against conventional flour production.</p>
+  <p>The findings pinpoint the key environmental hotspots of the upcycling process and offer data-driven insights to support Rescued Kitchen's sustainability initiatives. The complete report and life cycle inventory (LCI) data are available for download below.</p>
 </div>
 
 ## <i class="fas fa-folder-open"></i> Documentation and Data
 
-We have made our final report and life cycle inventory (LCI) data available for review. Click the buttons below to download or view the materials:
+Our final report and life cycle inventory (LCI) data are available below:
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px; margin-bottom: 40px;">
   <a href="/files/projects/rescued-flour/Final_Report.pdf" class="btn btn--danger" target="_blank"><i class="fas fa-file-pdf"></i> Final Project Report</a>
@@ -24,18 +25,15 @@ We have made our final report and life cycle inventory (LCI) data available for 
 
 ## <i class="fas fa-newspaper"></i> Media Coverage
 
-Our research and the innovative concept of upcycling wasted bread into usable flour have attracted attention from local media and our university. You can read more about the impact of our project through the following articles:
+The project has been featured in local media and university news:
 
 * 📰 **[Flour power: A new rise for wasted bread](https://www.auckland.ac.nz/en/news/2025/11/17/flour-power-a-new-rise-for-wasted-bread.html)** – *The University of Auckland News*
 * 🎙️ **[Is it possible to turn bread back into usable flour?](https://www.rnz.co.nz/news/national/579240/is-it-possible-to-turn-bread-back-into-usable-flour)** – *RNZ (Radio New Zealand)*
 
 ## <i class="fas fa-users"></i> Team
 
-*(Below are our team photos)*
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 30px; margin-top: 20px;">
-  <img src="/images/team_photo_1.jpg" alt="Team Photo 1" style="max-width: 400px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="/images/team_photo_2.jpg" alt="Team Photo 2" style="max-width: 400px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+<div style="display: flex; justify-content: center; margin-top: 20px; margin-bottom: 30px;">
+  <img src="/images/team_photo_1.jpg" alt="Team Photo" style="max-width: 420px; width: 100%; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.15);">
 </div>
 
 ---
