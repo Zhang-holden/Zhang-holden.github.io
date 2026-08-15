@@ -59,7 +59,7 @@ Outside of my studies, I maintain an active lifestyle. I am an avid basketball p
   <br> Aug 2024 – Mar 2025
 
 - **Changsha University of Science and Technology** | Changsha, Hunan, China
-  <br> *Bachelor Student*
+  <br> *Bachelor Student, School of Traffic and Transportation Engineering*
   <br> Sep 2020 – Jul 2024
 
 <div style="text-align: center; margin-top: 40px; margin-bottom: 20px;">
