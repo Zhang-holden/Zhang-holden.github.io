@@ -31,10 +31,13 @@
       {% if author.student_email %}
         <li><a href="mailto:{{ author.student_email }}"><i class="fas fa-fw fa-envelope-open" aria-hidden="true"></i> Student Email</a></li>
       {% endif %}
-      {% if author.whatsapp %}
-        <li><a href="tel:{{ author.whatsapp | remove: ' ' }}"><i class="fab fa-fw fa-whatsapp" aria-hidden="true"></i> WhatsApp</a></li>
-      {% endif %}
-      {% if author.wechat %}
+{% if author.whatsapp_nz %}
+<li><a href="tel:{{ author.whatsapp_nz | remove: ' ' }}"><i class="fab fa-fw fa-whatsapp" aria-hidden="true"></i> WhatsApp (NZ): {{ author.whatsapp_nz }}</a></li>
+{% endif %}
+{% if author.whatsapp_cn %}
+<li><a href="tel:{{ author.whatsapp_cn | remove: ' ' }}"><i class="fab fa-fw fa-whatsapp" aria-hidden="true"></i> WhatsApp (CN): {{ author.whatsapp_cn }}</a></li>
+{% endif %}
+{% if author.wechat %}
         <li><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat: {{ author.wechat }}</li>
       {% endif %}
       {% if author.xiaohongshu %}
@@ -138,9 +141,12 @@
       {% if author.student_email %}
         <a href="mailto:{{ author.student_email }}"><i class="fas fa-fw fa-envelope-open" aria-hidden="true"></i></a>
       {% endif %}
-      {% if author.whatsapp %}
-        <a href="tel:{{ author.whatsapp | remove: ' ' }}"><i class="fab fa-fw fa-whatsapp" aria-hidden="true"></i></a>
-      {% endif %}
+{% if author.whatsapp_nz %}
+<a href="tel:{{ author.whatsapp_nz | remove: ' ' }}"><i class="fab fa-fw fa-whatsapp" aria-hidden="true"></i></a>
+{% endif %}
+{% if author.whatsapp_cn %}
+<a href="tel:{{ author.whatsapp_cn | remove: ' ' }}"><i class="fab fa-fw fa-whatsapp" aria-hidden="true"></i></a>
+{% endif %}
       {% if author.xiaohongshu %}
         <a href="{{ author.xiaohongshu }}" target="_blank"><i class="fas fa-fw fa-book" aria-hidden="true"></i></a>
       {% endif %}
