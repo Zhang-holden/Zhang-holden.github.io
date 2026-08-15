@@ -19,14 +19,14 @@ author_profile: false
 
 <div class="notice--info">
   <h4 class="no_toc"><i class="fas fa-lightbulb"></i> Project Overview</h4>
-  <p>Food waste is one of the most pressing environmental challenges of our time — edible surplus bread is frequently discarded despite retaining significant nutritional and economic value. <strong>Rescued Kitchen</strong>, a New Zealand eco-enterprise, tackles this problem by upcycling surplus bread into high-quality flour.</p>
-  <p>As part of the <em>ENVENG 752: Sustainability and Life Cycle Assessment</em> course at The University of Auckland, our team partnered with Rescued Kitchen to conduct a comprehensive Life Cycle Assessment (LCA) of their upcycled flour product. Using <strong>OpenLCA</strong>, we modelled the full production chain — from bread collection and processing to the finished flour — to quantify its environmental footprint and benchmark it against conventional flour production.</p>
-  <p>The findings pinpoint the key environmental hotspots of the upcycling process and offer data-driven insights to support Rescued Kitchen's sustainability initiatives. The complete report and life cycle inventory (LCI) data are available for download below.</p>
+  <p>Food waste is one of the most pressing environmental challenges of our time — edible surplus bread is frequently discarded despite retaining significant nutritional and economic value. Rescued Kitchen, a New Zealand eco-enterprise, tackles this problem by upcycling surplus bread into high-quality flour.</p>
+  <p>As part of the <em>ENVENG 752: Sustainability and Life Cycle Assessment</em> course at The University of Auckland, our team partnered with Rescued Kitchen to conduct a comprehensive LCA of their upcycled flour product. Using OpenLCA, we modelled the full production chain — from bread collection and processing to the finished flour — to quantify its environmental footprint and benchmark it against conventional flour production.</p>
+  <p>The findings pinpoint the key environmental hotspots of the upcycling process and offer data-driven insights to support Rescued Kitchen's sustainability initiatives. The complete report and LCI data are available for download below.</p>
 </div>
 
 ## <i class="fas fa-folder-open"></i> Documentation and Data
 
-Our final report and life cycle inventory (LCI) data are available below:
+Our final report and LCI data are available below:
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px; margin-bottom: 40px;">
   <a href="/files/projects/rescued-flour/Final_Report.pdf" class="btn btn--danger" target="_blank"><i class="fas fa-file-pdf"></i> Final Project Report</a>
