@@ -5,11 +5,6 @@ title: "Courses & Transcripts"
 author_profile: true
 ---
 
-<div class="notice--info">
-  <h4 class="no_toc"><i class="fas fa-graduation-cap"></i> Academic Records</h4>
-  <p>Here you can find details about the courses I am currently undertaking at The University of Auckland, as well as my official academic transcripts from my undergraduate studies at Changsha University of Science and Technology.</p>
-</div>
-
 <span class='anchor' id='courses'></span>
 ## <i class="fas fa-book-open"></i> Coursework
 *(The University of Auckland)*
@@ -32,8 +27,6 @@ Below are the courses I am undertaking for my Master's degree, organized by seme
 <span class='anchor' id='transcripts'></span>
 ## <i class="fas fa-file-alt"></i> Undergraduate Transcripts
 *(Changsha University of Science and Technology)*
-
-You can view or download my official undergraduate transcripts using the button below:
 
 <div style="margin-top: 20px; margin-bottom: 40px;">
   <a href="/images/undergraduate_transcript.jpg" class="btn btn--danger" target="_blank" download="Haochen_Zhang_Undergraduate_Transcript.jpg"><i class="fas fa-file-download"></i> Download Official Transcript (JPG)</a>
