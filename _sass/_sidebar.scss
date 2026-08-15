@@ -268,3 +268,19 @@
     display: none;
   }
 }
+
+/* Sidebar navigation
+   ========================================================================== */
+.sidebar__nav {
+  margin-top: 1.5em;
+  padding-top: 1em;
+  border-top: 1px solid $border-color;
+
+  .nav__list {
+    font-size: 1rem;
+
+    a {
+      padding: 0.25em 0;
+    }
+  }
+}
