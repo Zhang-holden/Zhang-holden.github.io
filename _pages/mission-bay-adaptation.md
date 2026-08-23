@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 <div class="notice--info">
-  <h4 class="no_toc"><i class="fas fa-lightbulb"></i> Project Overview</h4>
+  <h4 class="no_toc">Project Overview</h4>
   <p>This project, completed as part of <em>ENGGEN 726: Climate Adaptation of Infrastructure</em> and supervised by Dr. Theuns Henning, examines how the Mission Bay shoreline in Auckland may need to respond to coastal hazards under future sea-level rise. The study area covers approximately 1.45 km of coast along Tamaki Drive. The analysis considers coastal inundation and erosion, and suggests a preliminary staged adaptation pathway that may inform possible options for the area.</p>
 </div>
 
-## <i class="fas fa-water"></i> Study Hazards
+## Study Hazards
 
 Two types of coastal hazards are considered in this study.
 
@@ -18,7 +18,7 @@ Two types of coastal hazards are considered in this study.
 
 **Coastal erosion** — progressive landward retreat of the active beach edge under waves, storms and SLR. The assessment focuses on the sandy pocket at Mission Bay, where the shoreline is expected to retreat over time, based on the ASCIE regional projections for 2050, 2080 and 2130.
 
-## <i class="fas fa-table"></i> Risk Assessment
+## Risk Assessment
 
 Asset-level exposure to each hazard is classified as Low / Medium / High across eight asset classes, including Tamaki Drive, hard coastal structures, residential blocks, the beach and foredune, and public reserves. The aggregated results suggest that exposure increases notably as sea-level rise approaches 1.0–2.0 m, with beach and reserve areas potentially facing the highest exposure.
 
@@ -29,7 +29,7 @@ Asset-level exposure to each hazard is classified as Low / Medium / High across 
   <div style="color: gray; font-size: 0.85em; margin-top: 8px;"><i>Click to view the full-size risk analysis matrix</i></div>
 </div>
 
-## <i class="fas fa-route"></i> Adaptation Pathway
+## Adaptation Pathway
 
 A staged pathway is suggested for the area. In the earlier stage (up to approximately 1.0 m of sea-level rise), maintenance and incremental defence may be sufficient. Beyond that point, Tamaki Drive, as a lifeline route, may require stronger protection; public reserves and the beach may be expected to accommodate water; and first-row residential properties may need to consider gradual adaptation, with managed retreat potentially required beyond approximately 1.5 m of sea-level rise.
 
@@ -40,13 +40,13 @@ A staged pathway is suggested for the area. In the earlier stage (up to approxim
   <div style="color: gray; font-size: 0.85em; margin-top: 8px;"><i>Click to view the full-size adaptation pathway diagram</i></div>
 </div>
 
-## <i class="fas fa-clipboard-check"></i> Key Observations
+## Key Observations
 
 - Exposure appears to be driven mainly by the sea-level rise step, rather than the storm-tide AEP level.
 - The beach, foredune and the seaward frontage of Selwyn Reserve may be the most exposed assets.
 - The suggested pathway is a preliminary exploration; it is expected to be refined with more detailed local data and further consultation.
 
-## <i class="fas fa-folder-open"></i> Documentation
+## Documentation
 
 The project report and presentation slides are available below:
 
