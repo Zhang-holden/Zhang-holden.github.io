@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="notice--info">
   <h4 class="no_toc"><i class="fas fa-lightbulb"></i> Project Overview</h4>
-  <p>This project, completed as part of <em>ENGGEN 726: Climate Adaptation of Infrastructure</em> and supervised by Dr. Theuns Henning, examines how the Mission Bay shoreline in Auckland may need to respond to coastal hazards under future sea-level rise. The study area covers approximately 1.45 km of coast along Tamaki Drive. The analysis considers coastal inundation and erosion, and suggests a staged adaptation pathway that may guide future planning decisions for the area.</p>
+  <p>This project, completed as part of <em>ENGGEN 726: Climate Adaptation of Infrastructure</em> and supervised by Dr. Theuns Henning, examines how the Mission Bay shoreline in Auckland may need to respond to coastal hazards under future sea-level rise. The study area covers approximately 1.45 km of coast along Tamaki Drive. The analysis considers coastal inundation and erosion, and suggests a preliminary staged adaptation pathway that may inform possible options for the area.</p>
 </div>
 
 ## <i class="fas fa-water"></i> Study Hazards
