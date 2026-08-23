@@ -5,6 +5,18 @@ title: "Climate Adaptation Strategy for Mission Bay"
 author_profile: true
 ---
 
+<style>
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: url('/images/mission_bay_bg.png') center / cover no-repeat;
+    opacity: 0.2;
+    z-index: -1;
+    pointer-events: none;
+  }
+</style>
+
 <div class="notice--info">
   <h4 class="no_toc">Project Overview</h4>
   <p>This project, completed as part of <em>ENGGEN 726: Climate Adaptation of Infrastructure</em> and supervised by Dr. Theuns Henning, examines how the Mission Bay shoreline in Auckland may need to respond to coastal hazards under future sea-level rise. The study area covers approximately 1.45 km of coast along Tamaki Drive. The analysis considers coastal inundation and erosion, and suggests a preliminary staged adaptation pathway that may inform possible options for the area.</p>
@@ -57,4 +69,9 @@ The project report and presentation slides are available below:
 ---
 <div style="margin-top: 30px;">
   <a href="/" class="btn btn--info btn--large"><i class="fas fa-arrow-left"></i> Back to Homepage</a>
+</div>
+
+<div style="text-align: center; margin-top: 40px; margin-bottom: 20px;">
+  <img src="/images/mission_bay_bottom.jpg" alt="Braided River, Canterbury Plains" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <div style="color: gray; font-size: 0.85em; margin-top: 8px;"><i>Taken over the Canterbury Plains, braided river.</i></div>
 </div>
