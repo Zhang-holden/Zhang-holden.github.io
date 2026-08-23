@@ -24,7 +24,7 @@ author_profile: true
 My Master of Infrastructure Asset Management is a research pathway programme — 180 points in total, with the 90-point thesis (CIVIL 794) accounting for 50%.
 
 ### 2025 Semester Two
-* 📚 **ENGGEN 726 (15 Points)**: Climate Adaptation of Infrastructure *(Grade: B-)*
+* 📚 **ENGGEN 726 (15 Points)**: Climate Adaptation of Infrastructure *(Grade: B-)* · [Project](https://zhang-holden.github.io/projects/mission-bay-adaptation/)
 * 📚 **ENGGEN 769 (15 Points)**: Research Methods for Engineers *(Grade: B)*
 * 📚 **ENVENG 752 (15 Points)**: Sustainability and Life Cycle Assessment *(Grade: B+)*
 
