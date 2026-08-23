@@ -10,7 +10,7 @@ author_profile: true
     content: "";
     position: fixed;
     inset: 0;
-    background: url('/images/mission_bay_bg.png') center / cover no-repeat;
+    background: url('/images/mission_bay_bg.jpg') center / cover no-repeat;
     opacity: 0.2;
     z-index: -1;
     pointer-events: none;
