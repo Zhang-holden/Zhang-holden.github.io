@@ -44,7 +44,6 @@ A staged pathway is suggested for the area. In the earlier stage (up to approxim
 
 - Exposure appears to be driven mainly by the sea-level rise step, rather than the storm-tide AEP level.
 - The beach, foredune and the seaward frontage of Selwyn Reserve may be the most exposed assets.
-- The suggested pathway is a preliminary exploration; it is expected to be refined with more detailed local data and further consultation.
 
 ## Documentation
 
