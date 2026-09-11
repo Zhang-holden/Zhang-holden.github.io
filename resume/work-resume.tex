@@ -49,8 +49,8 @@
     \setCJKmonofont{STHeiti}
 \else
     \IfFontExistsTF{KaiTi}{
-        % Windows 中文楷体（正文、标题、粗体统一使用楷体；AutoFakeBold 模拟加粗，使 \textbf 可见）
-        \setCJKmainfont[AutoFakeBold = 2.5, ItalicFont = KaiTi]{KaiTi}
+        % Windows 中文楷体（正文、标题、粗体统一使用楷体；AutoFakeBold 模拟加粗，数值越小越不易糊）
+        \setCJKmainfont[AutoFakeBold = 1.5, ItalicFont = KaiTi]{KaiTi}
         \setCJKsansfont{KaiTi}
         \setCJKmonofont{KaiTi}
     }{
