@@ -1,12 +1,27 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if site.data.navigation.main %}
+  {% assign nav_data = site.data.navigation.main %}
+  {% if page.lang == 'zh' %}{% assign nav_data = site.data.navigation_zh.main %}{% endif %}
+  {% if nav_data %}
     <nav class="sidebar__nav">
       <ul class="nav__list">
-        {% for link in site.data.navigation.main %}
+        {% for link in nav_data %}
           <li><a href="{{ link.url }}"{% if link.url == page.url %} class="active"{% endif %}{% if link.url contains '.pdf' %} target="_blank"{% endif %}>{{ link.title }}</a></li>
         {% endfor %}
+        {% if page.lang == 'zh' %}
+          {% assign lang_switch_url = page.url | replace: '/zh', '' %}
+          {% if lang_switch_url == '' %}{% assign lang_switch_url = '/' %}{% endif %}
+          {% assign lang_switch_label = 'English' %}
+        {% else %}
+          {% if page.url == '/courses-transcripts/' %}
+            {% assign lang_switch_url = '/zh/' %}
+          {% else %}
+            {% assign lang_switch_url = '/zh' | append: page.url %}
+          {% endif %}
+          {% assign lang_switch_label = '中文' %}
+        {% endif %}
+        <li class="lang-switch"><a href="{{ lang_switch_url }}" hreflang="{% if page.lang == 'zh' %}en{% else %}zh{% endif %}"><i class="fas fa-globe" aria-hidden="true"></i> {{ lang_switch_label }}</a></li>
       </ul>
     </nav>
   {% endif %}
