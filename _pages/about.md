@@ -49,21 +49,9 @@ Outside of my studies, I maintain an active lifestyle. I am an avid basketball p
 
 # 📖 Educations
 
-- **The University of Auckland**
-  <br> *Master of Infrastructure Asset Management*
-
-- **Changsha University of Science and Technology**
-  <br> *Bachelor of Engineering Management*
-
-# 💼 Experience
-
 - **The University of Auckland** | Auckland, New Zealand
   <br> *Master Student, Faculty of Engineering and Design*
   <br> Apr 2025 – Dec 2026 (Expected)
-
-- **Gansu Ningyuan Architectural Design Institute** | Lanzhou, Gansu, China
-  <br> *Intern*
-  <br> Aug 2024 – Mar 2025
 
 - **Changsha University of Science and Technology** | Changsha, Hunan, China
   <br> *Bachelor Student, School of Traffic and Transportation Engineering*
