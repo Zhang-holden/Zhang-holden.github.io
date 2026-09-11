@@ -5,12 +5,16 @@
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    <img src="{{ author.avatar }}" class="author__avatar" alt="{% if page.lang == 'zh' %}{{ author.name_cn }}{% else %}{{ author.name }}{% endif %}">
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.name_cn %}<p class="author__name-cn">{{ author.name_cn }}</p>{% endif %}
+    {% if page.lang == 'zh' %}
+      <h3 class="author__name">{{ author.name_cn }}</h3>
+    {% else %}
+      <h3 class="author__name">{{ author.name }}</h3>
+      {% if author.name_cn %}<p class="author__name-cn">{{ author.name_cn }}</p>{% endif %}
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -26,19 +30,19 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email: {{ author.email }}</a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {% if page.lang == 'zh' %}邮箱{% else %}Email{% endif %}: {{ author.email }}</a></li>
       {% endif %}
       {% if author.student_email %}
         <li><a href="mailto:{{ author.student_email }}"><i class="fas fa-fw fa-envelope-open" aria-hidden="true"></i> Student Email</a></li>
       {% endif %}
 {% if author.whatsapp_cn %}
-<li><a href="tel:{{ author.whatsapp_cn | remove: ' ' }}"><i class="fas fa-fw fa-phone" aria-hidden="true"></i> Phone (CN): {{ author.whatsapp_cn }}</a></li>
+<li><a href="tel:{{ author.whatsapp_cn | remove: ' ' }}"><i class="fas fa-fw fa-phone" aria-hidden="true"></i> {% if page.lang == 'zh' %}电话（中国）{% else %}Phone (CN){% endif %}: {{ author.whatsapp_cn }}</a></li>
 {% endif %}
 {% if author.whatsapp_nz %}
-<li><a href="tel:{{ author.whatsapp_nz | remove: ' ' }}"><i class="fas fa-fw fa-phone" aria-hidden="true"></i> Phone (NZ): {{ author.whatsapp_nz }}</a></li>
+<li><a href="tel:{{ author.whatsapp_nz | remove: ' ' }}"><i class="fas fa-fw fa-phone" aria-hidden="true"></i> {% if page.lang == 'zh' %}电话（新西兰）{% else %}Phone (NZ){% endif %}: {{ author.whatsapp_nz }}</a></li>
 {% endif %}
 {% if author.wechat %}
-<li><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat: {{ author.wechat }}</li>
+<li><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> {% if page.lang == 'zh' %}微信{% else %}WeChat{% endif %}: {{ author.wechat }}</li>
 {% endif %}
       {% if author.xiaohongshu %}
         <li><a href="{{ author.xiaohongshu }}" target="_blank"><i class="fas fa-fw fa-book" aria-hidden="true"></i> Xiaohongshu (RED)</a></li>
