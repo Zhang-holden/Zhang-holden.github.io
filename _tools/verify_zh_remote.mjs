@@ -13,13 +13,16 @@ async function get(p) {
 // S1: Chinese homepage
 const zh = await get('/zh/');
 check(zh.status === 200, `S1 /zh/ status=${zh.status}`);
-for (const t of ['关于', 'LCA 项目', 'Mission Bay 项目', '简历']) check(zh.text.includes(t), `S1 /zh/ missing nav title: ${t}`);
+for (const t of ['关于', '查看我的简历', 'LCA 项目', 'Mission Bay 项目']) check(zh.text.includes(t), `S1 /zh/ missing nav title: ${t}`);
 check(zh.text.includes('/files/resume-zh.pdf'), 'S1 /zh/ missing resume link');
 check(!zh.text.includes('/courses-transcripts/'), 'S1 /zh/ must NOT contain courses');
 check(zh.text.includes('lang="zh"'), 'S1 /zh/ html lang not zh');
 check(zh.text.includes('zh_CN'), 'S1 /zh/ og:locale not zh_CN');
 check(zh.text.includes('English'), 'S1 /zh/ missing English switcher label');
 check(zh.text.includes("id='about-me'") || zh.text.includes('id="about-me"'), 'S1 /zh/ missing about-me anchor');
+check(/author__name[^>]*>张皓琛</.test(zh.text), 'S1 /zh/ sidebar name not 张皓琛');
+check(!/author__name[^>]*>Haochen Zhang</.test(zh.text), 'S1 /zh/ sidebar still shows English name');
+for (const t of ['邮箱', '电话（中国）', '电话（新西兰）', '微信']) check(zh.text.includes(t), `S1 /zh/ missing zh contact label: ${t}`);
 
 // S2/S4: English homepage unchanged + switcher
 const en = await get('/');
@@ -30,6 +33,9 @@ check(en.text.includes('lang="en"'), 'S4 / html lang not en');
 check(en.text.includes('View My CV'), 'S4 / lost View My CV');
 check(en.text.includes('/files/CV_Haochen_Zhang.pdf'), 'S4 / CV url changed');
 check(en.text.includes('Courses'), 'S4 / lost Courses');
+check(en.text.includes('Email:'), 'S4 / lost Email label');
+check(en.text.includes('Phone (CN):'), 'S4 / lost Phone (CN) label');
+check(en.text.includes('WeChat:'), 'S4 / lost WeChat label');
 
 // S3: EN courses switcher -> /zh/
 const courses = await get('/courses-transcripts/');
@@ -43,6 +49,7 @@ check(mb.status === 200, `S5 zh MB status=${mb.status}`);
 check(mb.text.includes('lang="zh"'), 'S5 zh MB lang not zh');
 check(mb.text.includes('href="/projects/mission-bay-adaptation/"'), 'S5 zh MB switcher not -> EN');
 check(mb.text.includes('返回首页'), 'S5 zh MB missing back link');
+check(mb.text.includes('基础设施课程研究项目'), 'S5 zh MB missing 基础设施课程研究项目');
 check(mb.text.includes('/images/mission_bay_risk_matrix.png'), 'S5 zh MB lost risk matrix image');
 
 const lca = await get('/zh/projects/rescued-flour-lca/');
