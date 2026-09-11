@@ -16,7 +16,7 @@
 % ── 字体设置 ──────────────────────────────────────────────
 % 若需在 Overleaf 使用自定义字体，可将已授权的字体文件放入 fonts/ 文件夹，
 % 并按 STSong.ttf、STHeiti.ttf、STKaiti.ttf 命名；macOS 本地默认使用系统华文系列。
-\IfFontExistsTF{Times New Roman}{\setmainfont[AutoFakeBold=2.1]{Times New Roman}}{}
+\IfFontExistsTF{Times New Roman}{\setmainfont[AutoFakeBold=2.2]{Times New Roman}}{}
 
 \newif\ifuseuploadedcjkfonts
 \IfFileExists{fonts/STSong.ttf}{
@@ -50,7 +50,7 @@
 \else
     \IfFontExistsTF{KaiTi}{
         % Windows 中文楷体（正文、标题、粗体统一使用楷体；AutoFakeBold 模拟加粗，数值越小越不易糊）
-        \setCJKmainfont[AutoFakeBold = 2.1, ItalicFont = KaiTi]{KaiTi}
+        \setCJKmainfont[AutoFakeBold = 2.2, ItalicFont = KaiTi]{KaiTi}
         \setCJKsansfont{KaiTi}
         \setCJKmonofont{KaiTi}
     }{
