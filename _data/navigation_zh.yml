@@ -3,11 +3,11 @@ main:
   - title: "关于"
     url: "/zh/#about-me"
 
+  - title: "查看我的简历"
+    url: "/files/resume-zh.pdf"
+
   - title: "LCA 项目"
     url: "/zh/projects/rescued-flour-lca/"
 
   - title: "Mission Bay 项目"
     url: "/zh/projects/mission-bay-adaptation/"
-
-  - title: "简历"
-    url: "/files/resume-zh.pdf"

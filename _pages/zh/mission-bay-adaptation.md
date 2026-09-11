@@ -20,7 +20,7 @@ author_profile: true
 
 <div class="notice--info">
   <h4 class="no_toc">项目概览</h4>
-  <p>本项目为<em>ENGGEN 726：基础设施气候适应</em>课程作业，由 Dr. Theuns Henning 指导，研究奥克兰 Mission Bay 海岸在未来的海平面上升情境下可能需要如何应对海岸灾害。研究区域覆盖沿 Tamaki Drive 约 1.45 公里的海岸线。分析考虑了海岸淹没与海岸侵蚀，并提出一条初步的分阶段适应路径，或可为该区域的可能方案提供参考。</p>
+  <p>本项目为 ENGGEN 726 基础设施课程研究项目，由 Dr. Theuns Henning 指导，研究奥克兰 Mission Bay 海岸在未来的海平面上升情境下可能需要如何应对海岸灾害。研究区域覆盖沿 Tamaki Drive 约 1.45 公里的海岸线。分析考虑了海岸淹没与海岸侵蚀，并提出一条初步的分阶段适应路径，或可为该区域的可能方案提供参考。</p>
 </div>
 
 ## 研究灾害
