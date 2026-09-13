@@ -26,16 +26,16 @@ Hi，我是张皓琛，奥克兰大学基础设施资产管理专业硕士研究
 
 在此之前，我的本科毕业论文由常中祥教授指导，研究了面向道路养护决策的双层优化建模。我开发了一套定制的混合 GA–NSGA-II 算法来优化养护策略。该研究的摘要被 2024 年世界交通运输大会（WTC）接收，并在会上进行了海报展示。在此基础上，我目前正在探索将先进优化算法与强化学习（RL）相结合，以进一步提升复杂模型中的计算效率与算法泛化能力。
 
-在 *ENVENG 752: Sustainability and Life Cycle Assessment* 课程中，我在 Dr. Febelyn Reguyal 的指导下，参与了与新西兰生态企业 Rescued Kitchen 的合作项目。我们使用 OpenLCA 对其升级再造面粉产品开展了全面的生命周期评价（LCA），为其可持续发展举措提供数据驱动的建议。([查看项目成果](/zh/projects/rescued-flour-lca/))
+在 *ENVENG 752: Sustainability and Life Cycle Assessment* 课程中，我在 Dr. Febelyn Reguyal 的指导下，参与了与新西兰生态企业 Rescued Kitchen 的合作项目。我们使用 OpenLCA 对其升级再造面粉产品开展了全面的全生命周期评估，为其可持续发展举措提供数据驱动的建议。([查看项目成果](/zh/projects/rescued-flour-lca/))
 
-在 *ENGGEN 726: Climate Adaptation of Infrastructure* 课程中，我在 Dr. Theuns Henning 的指导下，还针对奥克兰 Mission Bay 海岸线开展了一项气候适应研究。我评估了在高达约 2.0 m 的海平面上升情景下，包括 Tamaki Drive、住宅区块和公共保留地在内的关键资产所面临的海岸淹没与侵蚀风险，并提出了一条分阶段适应路径，涵盖渐进式防护、生命线保护、容纳与管理性退却。我希望进一步探索如何借助数据驱动建模为这类适应策略提供依据。([查看项目成果](/zh/projects/mission-bay-adaptation/))
+在 *ENGGEN 726: Climate Adaptation of Infrastructure* 课程中，我在 Dr. Theuns Henning 的指导下，还针对奥克兰 Mission Bay 海岸线开展了一项气候适应研究。我评估了在高达约 2.0 m 的海平面上升情景下，包括 Tamaki Drive、住宅区块和公共保留地在内的关键资产所面临的海岸淹没与侵蚀风险，并提出了一条分阶段适应路径，涵盖渐进式防护、生命线保护、容纳与有管理的退让。我希望进一步探索如何借助数据驱动建模为这类适应策略提供依据。([查看项目成果](/zh/projects/mission-bay-adaptation/))
 
 学习之余，我保持着积极的生活方式。我热爱打篮球，并持有二级篮球裁判员证书。
 
 # 🎯 研究方向
 
 - 基础设施中的区块链与智能合约
-- 生命周期评价（LCA）
+- 全生命周期评估
 - 多目标优化算法
 - 基础设施资产管理
 - 施工管理
@@ -43,7 +43,7 @@ Hi，我是张皓琛，奥克兰大学基础设施资产管理专业硕士研究
 # 💻 专业技能
 - **编程与数据：** Python、Solidity、XML、XPath、XQuery、知识图谱、LaTeX。
 - **工程与设计：** Revit、AutoCAD。
-- **生命周期评价：** LCA 工作流程、OpenLCA。
+- **全生命周期评估：** 评估工作流程、OpenLCA。
 
 # 📖 教育背景
 

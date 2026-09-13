@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /zh/projects/rescued-flour-lca/
-title: "Rescued Kitchen 升级再造面粉生命周期评价"
+title: "Rescued Kitchen 升级再造面粉全生命周期评估"
 lang: zh
 author_profile: true
 ---
@@ -21,7 +21,7 @@ author_profile: true
 <div class="notice--info">
   <h4 class="no_toc"><i class="fas fa-lightbulb"></i> 项目概览</h4>
   <p>食物浪费是当今最紧迫的环境挑战之一：可食用的剩余面包尽管仍保有可观的营养和经济价值，却常常被丢弃。Rescued Kitchen 是一家新西兰生态企业，通过将剩余面包升级再造为高品质面粉来应对这一问题。</p>
-  <p>作为奥克兰大学<em>ENVENG 752：可持续性与生命周期评价</em>课程的一部分，我们的团队与 Rescued Kitchen 合作，对其升级再造面粉产品进行了全面的 LCA。我们使用 OpenLCA 对完整生产链进行建模，从面包收集、加工到成品面粉，以量化其环境足迹，并与传统面粉生产进行基准比较。</p>
+  <p>作为奥克兰大学<em>ENVENG 752：可持续性与生命周期评价</em>课程的一部分，我们的团队与 Rescued Kitchen 合作，对其升级再造面粉产品进行了全面的全生命周期评估。我们使用 OpenLCA 对完整生产链进行建模，从面包收集、加工到成品面粉，以量化其环境足迹，并与传统面粉生产进行基准比较。</p>
   <p>研究结果指出了升级再造过程中的关键环境热点，并提供数据驱动的洞见，以支持 Rescued Kitchen 的可持续发展举措。完整报告和 LCI 数据可在下方下载。</p>
 </div>
 
