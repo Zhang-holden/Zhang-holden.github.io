@@ -41,19 +41,22 @@ Hi，我是张皓琛，奥克兰大学基础设施资产管理专业硕士研究
 - 施工管理
 
 # 💻 专业技能
-- **编程与数据：** Python、Solidity、XML、XPath、XQuery、知识图谱、LaTeX。
-- **工程与设计：** Revit、AutoCAD。
-- **全生命周期评估：** 全生命周期评估工作流程、熟悉 ISO 国际标准。
+- **语言能力：** CET-6、奥克兰大学学术英语证书。
+- **数据编程：** Python（Pandas、Matplotlib 等）、智能合约（Solidity）、XML、XPath、XQuery、LaTeX。
+- **工程软件：** Revit、AutoCAD、OpenLCA。
+- **其他：** 二级篮球裁判员、新西兰 Level-1 篮球裁判员。
 
 # 📖 教育背景
 
 - **奥克兰大学** | 新西兰奥克兰
-  <br> *硕士研究生，工程与设计学部*
+  <br> *基础设施资产管理（研究型硕士）*
   <br> 2025年4月 至 2026年12月（预计）
+  <br> 主修课程：基础设施资产管理、大数据管理、智能基础设施分析、基础设施的气候韧性分析、全生命周期评估方法等。
 
 - **长沙理工大学** | 中国湖南长沙
-  <br> *本科生，交通运输工程学院*
-  <br> 2020年9月 至 2024年7月
+  <br> *工程管理（学士）*
+  <br> 2020年9月 至 2024年6月
+  <br> 主修课程：道路工程、桥梁工程、工程项目管理、工程财务管理、工程风险管理与保险、公路工程造价、FIDIC条件与合同管理、BIM技术及应用等。
 
 <div style="text-align: center; margin-top: 40px; margin-bottom: 20px;">
   <img src="/images/mt.jpg" alt="Mount Maunganui National Park" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
